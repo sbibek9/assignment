@@ -1,0 +1,16 @@
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.csprojAssemblyReference.cache
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.AssemblyInfoInputs.cache
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.AssemblyInfo.cs
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.csproj.CoreCompileInputs.cache
+/home/bibek/Documents/itest/csharp/assignmnet/bin/Debug/net5.0/assignmnet
+/home/bibek/Documents/itest/csharp/assignmnet/bin/Debug/net5.0/assignmnet.deps.json
+/home/bibek/Documents/itest/csharp/assignmnet/bin/Debug/net5.0/assignmnet.runtimeconfig.json
+/home/bibek/Documents/itest/csharp/assignmnet/bin/Debug/net5.0/assignmnet.runtimeconfig.dev.json
+/home/bibek/Documents/itest/csharp/assignmnet/bin/Debug/net5.0/assignmnet.dll
+/home/bibek/Documents/itest/csharp/assignmnet/bin/Debug/net5.0/ref/assignmnet.dll
+/home/bibek/Documents/itest/csharp/assignmnet/bin/Debug/net5.0/assignmnet.pdb
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.dll
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/ref/assignmnet.dll
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.pdb
+/home/bibek/Documents/itest/csharp/assignmnet/obj/Debug/net5.0/assignmnet.genruntimeconfig.cache
