@@ -4,7 +4,7 @@ namespace assignmnet.Questions
 {
     public class Seven
     {
-        public void convertDate()
+        public void convertDateTime()
         {
             DateTime dateTime = DateTime.Now;
             Console.Write("Current Time: ");

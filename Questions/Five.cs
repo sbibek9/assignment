@@ -13,13 +13,12 @@ namespace assignmnet.Questions
             five = 11
         }
 
-        public void enums()
+        public void getEnumValues()
         {
-            Console.WriteLine((int)list.one);
-            Console.WriteLine((int)list.two);
-            Console.WriteLine((int)list.three);
-            Console.WriteLine((int)list.four);
-            Console.WriteLine((int)list.five);
+            foreach (var item in Enum.GetValues(typeof(list)))
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
